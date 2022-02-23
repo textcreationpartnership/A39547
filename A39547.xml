@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fair trade, besides the heavy duties it lies under, suffers yet more from the frauds of smuglers and the exactions of officers for preventing both which, the bill before the House is calculated so that 'tis no wonder if the private interests of clandestine traders and officers should unite in raising a clamour against it.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39547</idno>
+            <idno type="STC">Wing F102BA</idno>
+            <idno type="STC">ESTC R36408</idno>
+            <idno type="EEBO-CITATION">15689665</idno>
+            <idno type="OCLC">ocm 15689665</idno>
+            <idno type="VID">104381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104381)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1592:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fair trade, besides the heavy duties it lies under, suffers yet more from the frauds of smuglers and the exactions of officers for preventing both which, the bill before the House is calculated so that 'tis no wonder if the private interests of clandestine traders and officers should unite in raising a clamour against it.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tariff --  Law and legislation --  England.</term>
+               <term>Trade regulation --  England.</term>
+               <term>Smuggling --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="docket_title">
+            <pb facs="tcp:104381:1"/>
+            <p>FOR THE BILL AGAINST <hi>Clandeſtine Trade.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104381:1" rendition="simple:additions"/>
+            <head>
+               <hi>Fair Trade,</hi> beſides the Heavy Duties it lies under, ſuffers yet more from the <hi>Frauds</hi> of <hi>Smuglers</hi> and the <hi>Exactions</hi> of <hi>Officers,</hi> for preventing both which, the <hi>BILL</hi> before the <hi>Houſe</hi> is Calculated ſo that 'tis no wonder if the Pri<g ref="char:EOLhyphen"/>vate Intereſts of <hi>Clandeſtine Traders</hi> and <hi>Officers,</hi> ſhould unite, in raiſing a Clamour againſt it.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">The <hi>Clauſes</hi> whereof are to the Effect following.</cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>1. THAT all Ships under juſt ſuſpicion of an Irregular Trade, by hover<g ref="char:EOLhyphen"/>ing and remaining unneceſſarily near the Shore, ſhould be ſubject to a Search, and the Maſter obliged to declare his Conſignment.</cell>
+                     <cell>SUCH Declaration of the Maſter, is no more than what is already required from all who come into Port, and this Clauſe will not delay any Ship which duly pro<g ref="char:EOLhyphen"/>ſecutes her Voyage, or prevent taking in ne<g ref="char:EOLhyphen"/>ceſſary Supplies.</cell>
+                  </row>
+                  <row>
+                     <cell>2. The ſecond Clauſe ſubjects all Perſons any way aiding or aſſiſting in Smugling, to a Penalty, and alſo forfeits the Horſes or Car<g ref="char:EOLhyphen"/>riages imployed in ſuch Service.</cell>
+                     <cell>This was in the French Prohibition Act, and the ſpeedy Conviction, will make it more Ef<g ref="char:EOLhyphen"/>fectual, as well as more Uſeful, to the Poor.</cell>
+                  </row>
+                  <row>
+                     <cell>3, 4, 5. The third, fourth, and fifth Clau<g ref="char:EOLhyphen"/>ſes require the Making True Entries, with re<g ref="char:EOLhyphen"/>ference to the Countrey, and alſo the Proper<g ref="char:EOLhyphen"/>ty of the Goods, under a Penalty, on any Prevarication.</cell>
+                     <cell>This neceſſary to prevent Colouring French or Aliens Goods, under other Names; but if the Swearing <hi>Toties Quoties</hi> be objected to, a General Oath may ſuffice inſtead of it.</cell>
+                  </row>
+                  <row>
+                     <cell>6. The ſixth Clauſe provides for the Secu<g ref="char:EOLhyphen"/>rity of Goods caſually caſt on Shore, till the Duties are paid.</cell>
+                     <cell>The King's Intereſt in ſuch Goods, would help to preſerve the Subjects Right better than it would be otherwiſe.</cell>
+                  </row>
+                  <row>
+                     <cell>7. Brandy in ſmall Casks, or Salt in Bags, to be forfeited, if found on board Ships pre<g ref="char:EOLhyphen"/>tending to be bound to <hi>Ireland,</hi> or the Neigh<g ref="char:EOLhyphen"/>bouring Iſlands, as well as if Imported to <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+                     </cell>
+                     <cell>This Clauſe makes the Smugling more diffi<g ref="char:EOLhyphen"/>cult in theſe Inſtances, wherein it was before too frequently practiſed.</cell>
+                  </row>
+                  <row>
+                     <cell>8. No Houſe to be broken open in Search of Uncuſtomed Goods, but on freſh Purſuit, or Information upon Oath, and the Informer to have Equal Share with the Officer.</cell>
+                     <cell>'Tis no unuſual Practice for Merchants to di<g ref="char:EOLhyphen"/>ſturb one another in the ſame Trade, by whi<g ref="char:EOLhyphen"/>ſpering Stories to Officers, without any Foun<g ref="char:EOLhyphen"/>dation, which is a great Miſchief, when it goes ſo far as to break into Houſes. The other part is for Encouraging Juſt Informations.</cell>
+                  </row>
+                  <row>
+                     <cell>9. All Merchants to be Civilly treated and diligently diſpatched, on pain of ſuſpending the Officer who neglects his Duty herein. That is in diſpatching due Certificates of Over En<g ref="char:EOLhyphen"/>tries or Damage; and Poſt Entries to be a<g ref="char:EOLhyphen"/>voided as much as is poſſible.</cell>
+                     <cell>The Fundamental Security to the Revenue ariſes from the Obligation upon Merchants to enter their Goods before they land them; And all Short Entries under Colour of Damage or any other Pretence whatſoever, ſubjects ſo much to Frauds by Colluſive Practices with the Officers at the Water-ſide.</cell>
+                  </row>
+                  <row>
+                     <cell>10. Goods brought to the Ware-houſe at the Merchants deſire, for ſecuring the Duty to be entred in a certain time, or the Ware<g ref="char:EOLhyphen"/>houſe room to be paid for.</cell>
+                     <cell>This only to oblige the Merchants to di<g ref="char:EOLhyphen"/>ſpatch the Entring their Goods, in order to clear the Kings Ware-houſe.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb facs="tcp:104381:2"/> 11. Wines to be Imported in Certain Cask, on pain of Loſing the 12 <hi>per Cent.</hi> for Leakage, and to be obliged to enter as fill'd up, gaug<g ref="char:EOLhyphen"/>ing the Wine if otherwiſe Imported.</cell>
+                     <cell>The Rule in the Book of Rates, which al<g ref="char:EOLhyphen"/>lows Outs, ſuppoſes Certain Cask, and the Mer<g ref="char:EOLhyphen"/>chant who had before his Election on the En<g ref="char:EOLhyphen"/>try, Whether to Enter fill'd or unfill'd; will have it now on the Importation.</cell>
+                  </row>
+                  <row>
+                     <cell>12. Damaged Tobacco to be deſtroyed, on certain Conditions.</cell>
+                     <cell>The partiality of Officers in the Allowances for Damage, is a great Diſcouragement to Fair Trade, which this Clauſe prevents, as well as prejudice to the Subject, by the Mix<g ref="char:EOLhyphen"/>ing of Unwholſom Tobacco with Sound: and if the like Practice might be uſed to Unſound Wines, it would probably have the ſame good Effect every way.</cell>
+                  </row>
+                  <row>
+                     <cell>13. No Perſon to be admitted to Claim any Goods ſeized, without giving Security to an<g ref="char:EOLhyphen"/>ſwer Coſts of Suit.</cell>
+                     <cell>This to prevent Sham-Claims of Perſons no way intereſted in the Property of the Goods.</cell>
+                  </row>
+                  <row>
+                     <cell>14. No Goods to be carried Coaſt-ways without a Cuſtom-houſe Diſpatch, or Landed, but in preſence of an Officer.</cell>
+                     <cell rows="3">Theſe Three Clauſes neceſſary to prevent the Frauds uſually practiſed in the Coaſt Trade.</cell>
+                  </row>
+                  <row>
+                     <cell>15. Fiſher Boats, Coal Ships, or other Coaſt<g ref="char:EOLhyphen"/>ing Veſſels, taking in any Uncuſtomed or Prohibited, or Certificat Goods at Sea, with<g ref="char:EOLhyphen"/>out Warrant, ſhall be forfeited, unleſs in Ca<g ref="char:EOLhyphen"/>ſes of abſolute neceſſity.</cell>
+                  </row>
+                  <row>
+                     <cell>16. Foreign Goods carried up the Naviga<g ref="char:EOLhyphen"/>ble Rivers, ſhall have Cuſtom-houſe Di<g ref="char:EOLhyphen"/>ſpatches, as if carried from Port to Port.</cell>
+                  </row>
+                  <row>
+                     <cell>17. Endorſed Cocquets to be by Actual En<g ref="char:EOLhyphen"/>dorſement on the firſt Warrant in all Caſes where 'tis practicable.</cell>
+                     <cell>This ſaves the Merchant the unneceſſary trouble and charge of Two Entries, and ſe<g ref="char:EOLhyphen"/>cures the Revenue better from double Ship<g ref="char:EOLhyphen"/>ping of Subſidy Goods and Double Deben<g ref="char:EOLhyphen"/>tures for Certificat Goods.</cell>
+                  </row>
+                  <row>
+                     <cell>18. No Bounty to be paid for Corn Ex<g ref="char:EOLhyphen"/>ported, without the ſame Proof which the Law already requires, before the Bond be Cancell'd.</cell>
+                     <cell>Security being already required for Export<g ref="char:EOLhyphen"/>ing ſuch Corn, the Reaſon of the Law holds againſt paying the Bounty, till ſuch Security be duly diſcharged by a Certificat of the Actual Exportation.</cell>
+                  </row>
+                  <row>
+                     <cell>19. No Ship importing any Foreign Goods ſhall diſcharge the ſame into Lighters, but on a Sufferance with Condition to ſecure a due Entry of all ſuch Goods.</cell>
+                     <cell>The unſhipping Goods before Entry creates a Forfeiture in Law; And tho' Trade may be accommodated in this Particular, yet the King's Security ſhould not be leſſened.</cell>
+                  </row>
+                  <row>
+                     <cell>20. Officers to be ſettled in the Iſles of <hi>Man, Guernzy,</hi> and <hi>Jerzy,</hi> &amp;c. with Autho<g ref="char:EOLhyphen"/>rities to prevent Irregular Trade.</cell>
+                     <cell>Without ſuch Care thoſe Iſlands may be made Magazines for Plantation and Prohibited Goods, which will be more eaſily ſtollen from thence into <hi>England.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>21. and 22. Certain enumerated Goods paying very high Duties, as alſo all <hi>French</hi> and Prohibted Goods being ſeized and con<g ref="char:EOLhyphen"/>demned to be ſold by Inch of Candle; The King to have Two thirds of ſuch Sale, paying the charge of Proſecution, and no Letter of Li<g ref="char:EOLhyphen"/>cence to be granted for Compounding ſuch Seizures.</cell>
+                     <cell>The Reaſon of theſe Clauſes is, that the King's Share by Compoſition, and even his Moiety of the ordinary Appraiſements, comes to leſs than the Duty on ſome Goods, which tends to run the Revenue into Forfeiture by Colluſive Seizures, wherein the Merchant will find his Account.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb facs="tcp:104381:2"/> 23. The Commiſſioners may compound Petty Seizures only where the Subſidy does not exceed 40 ſhillings.</cell>
+                     <cell>This always allowed in the Commiſſion of the Cuſtom, as ſuppoſing the Goods will not anſwer the Charge of the Proſecution in the <hi>Exchequer;</hi> nevertheleſs the Practice of it is uneaſie to hat Court.</cell>
+                  </row>
+                  <row>
+                     <cell>24. The Regiſter of Ships hitherto requi<g ref="char:EOLhyphen"/>red for ſuch only as trade to the Plantations, to be extended to all <hi>Engliſh</hi> Ships trading to any Foreign Parts, in order to preſerve the Pri<g ref="char:EOLhyphen"/>vileges intended by the Act of Navigation to <hi>Engliſh</hi> Ships and <hi>Engliſh</hi> Seamen entire to them.</cell>
+                     <cell>This Cluſe does only purſue the Inten<g ref="char:EOLhyphen"/>tion of the Act of Navigation, by encoura<g ref="char:EOLhyphen"/>ging the Juilding of Ships in <hi>England,</hi> and employing of <hi>Engliliſh</hi> Seamen.</cell>
+                  </row>
+                  <row>
+                     <cell>25. Maſters of Ships coming from Foreign Parts, tho' pretending to be in Ballaſt, to make Declaration at the <hi>Cuſtom-houſe</hi>
+                     </cell>
+                     <cell>That <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he Pretence of Ballaſt may not be a Cover to Fraud, as it proves too often.</cell>
+                  </row>
+                  <row>
+                     <cell>26, &amp; 30. The Commanders of Men of War and Yatchs coming from Foreign Parts, as alſo Maſters of Veſſels employed in the Service of the Navy, Victualling, or Tran<g ref="char:EOLhyphen"/>ſports, to be ſubject to Declaration and Rules as well as others.</cell>
+                     <cell>This nought to be a neceſſary Caution, to prevent Opportunities of Smuggling, under Colour of the Publick Service.</cell>
+                  </row>
+                  <row>
+                     <cell>27, 28, 29. The Oaths required from Ma<g ref="char:EOLhyphen"/>ſters of Ships to be writ down on the Reports Inwards, and the Contents Outwards, to be Signed by the Maſters of the Ships, and to be atteſted by the proper Officers adminiſtring the ſame reſpectively.</cell>
+                     <cell>The Law already requires the Oath and the making it more ſolemn, by writing it down to be read and ſubſcribed, before ſworn may procure a greater Regard of it.</cell>
+                  </row>
+                  <row>
+                     <cell>31. A Regular Account of all Seizures to be given from time to time to the Commiſſioners.</cell>
+                     <cell>The neceſſary to prevent Diſcharges with<g ref="char:EOLhyphen"/>out die Courſe of Law.</cell>
+                  </row>
+                  <row>
+                     <cell>32. All Bonds duly Certified to be Cancelled, and the Certificate to be annexed to the Bond, to juſtifie the Officer in Cancelling the ſame.</cell>
+                     <cell>The preſent Practice, is to return the Bonds into the <hi>Exchequer</hi> without Cancelling; ſo that if the Certificate happens to be loſt, the Mer<g ref="char:EOLhyphen"/>chantis unreaſonably proſecuted.</cell>
+                  </row>
+                  <row>
+                     <cell>33. Bonds not duly Certified, to be re<g ref="char:EOLhyphen"/>turned regularly into the <hi>Exchequer,</hi> in or<g ref="char:EOLhyphen"/>der to a Proſecution.</cell>
+                     <cell>This no leſs reaſonable than the other, to diſcourage Irregular Practices.</cell>
+                  </row>
+                  <row>
+                     <cell>34. The Impoſitions to be accompted for in the <hi>Exchequer</hi> by the Patent-Officers in the Year-Books as well as the Subſidy.</cell>
+                     <cell>Thoſe Duties now amounting to more than the Old Subſidy, may deſerve as much Care from the Officer in rendring a juſt Account of then.</cell>
+                  </row>
+                  <row>
+                     <cell>35. Collectors to give in their Quarterly Accounts of Incidents upon Oath, and all Officers to attend diligently at reaſonable Hours the Diſpatch of Merchants Buſineſs.</cell>
+                     <cell>The firſt Part but a reaſonable Caution from the Officer, and the other a juſt Regard to the Accommodation of Trade.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <g ref="char:V">Ʋ</g>pon the whole Matter, This Bill is of very Publick Concernment: For as there was in the Year ending at <hi>Michaelmas</hi> l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt near 1500000 <hi>l.</hi> in Money received for Duties at the <hi>Cuſtom-houſe,</hi> and applied to the Diſcharge of the Debt of the Nation, It is plain that a due Collection of theſe Duties does not only tend to en<g ref="char:EOLhyphen"/>courage Trade in General, but to eaſe the Land of every Gentleman in <hi>England</hi> of ſo much of that Publick Burthen which muſt otherwiſe come upon it. And if there be ony one Clauſe in the whole Bill, which upon due Deliberation ſhall be found Impracticable or too Rigorous, the Bill being framed as it is by Rules to make it more intelligible in fewer Words, any one of them may be left out without Pre<g ref="char:EOLhyphen"/>judice to the reſt, as having no neceſſary Dependance on, or Connexion with one another.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
